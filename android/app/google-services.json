@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "430479620993",
+    "firebase_url": "https://connect-495e6.firebaseio.com",
+    "project_id": "connect-495e6",
+    "storage_bucket": "connect-495e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430479620993:android:4850c0235ed2f10c",
+        "android_client_info": {
+          "package_name": "com.connect.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430479620993-7kq3vsc7rbvlhvsoed9stlc37s2a94n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "13632646943e970a4122c0cbfbf09cb3018aae88"
+          }
+        },
+        {
+          "client_id": "430479620993-9d9ucvduq2382d8e62aeks97eaivh6ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "f32df005d4ea812b852d8253b7c63556f3cf00ff"
+          }
+        },
+        {
+          "client_id": "430479620993-lpo77i7244mq8vqk18n83d76153ct93p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "f341b18ce47161535b492c19e6c6164200249774"
+          }
+        },
+        {
+          "client_id": "430479620993-n7o6omg6lb14givvfc290tk4kt0v70us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "ae2675dd5af1ba175f7da46709a1a993f8de551f"
+          }
+        },
+        {
+          "client_id": "430479620993-s66mmr2qipdqa5dufqiltms2uac8tsn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "00efb9893105f8ab6da5788a5d8b1533c70bb9e4"
+          }
+        },
+        {
+          "client_id": "430479620993-egck3rur1eb66kmhb5o7sfmcmha1g1sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxezEUr8ivDKDI6dlbc0cbsRKy88YJiIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430479620993-4j4gk0fuai58f3vm9pd683dtesou2htv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430479620993-841dtj9ck53okscbethjh071gvd4jq5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.connect.Alaitisal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430479620993:android:2737c38ddf84fa7d9b4680",
+        "android_client_info": {
+          "package_name": "com.tallabatak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430479620993-egck3rur1eb66kmhb5o7sfmcmha1g1sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxezEUr8ivDKDI6dlbc0cbsRKy88YJiIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430479620993-4j4gk0fuai58f3vm9pd683dtesou2htv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430479620993-841dtj9ck53okscbethjh071gvd4jq5a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.connect.Alaitisal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
