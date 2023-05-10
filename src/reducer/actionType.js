@@ -50,5 +50,4 @@ export const GET_NEAR_BY_USERS_SUCCESS="GET_NEAR_BY_USERS_SUCCESS"
 ;
 export const GET_NEAR_BY_USERS_STRAT="GET_NEAR_BY_USERS";
 
-export const BASE_URL="http://10.10.18.226/tallabatak/";
-// export const BASE_URL="https://www.tekhalini.com/";
+export const BASE_URL="https://www.tekhalini.com/";
